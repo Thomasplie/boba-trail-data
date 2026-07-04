@@ -11,7 +11,7 @@
   },
   {
     "id": "2",
-    "name": "YOYO! Fresh Tea Bar",
+    "name": "YOYO! boba",
     "address": "Kruisplein 28, 3012 CC Rotterdam",
     "specialty": "Mango boba green tea",
     "description": "A spacious tea bar close to Rotterdam Centraal with self-service ordering screens and a wide range of fruit and milk teas.",
@@ -21,7 +21,7 @@
   },
   {
     "id": "3",
-    "name": "machi machi Rotterdam",
+    "name": "machi machi",
     "address": "Hoogstraat 117A, 3011 PL Rotterdam",
     "specialty": "Matcha latte with cream brulee",
     "description": "A minimalist bubble tea and matcha spot near Markthal and Blaak station, praised for its rich matcha lattes and thick tapioca pearls.",
@@ -31,7 +31,7 @@
   },
   {
     "id": "4",
-    "name": "CoCo Bubble Tea (Koopgoot)",
+    "name": "CoCo Boba",
     "address": "Beurstraverse 146, 3012 AT Rotterdam",
     "specialty": "Adjustable sugar level classic milk tea",
     "description": "A well-known bubble tea chain located in the heart of the Koopgoot shopping street, offering fully adjustable sugar levels on all drinks.",
@@ -51,7 +51,7 @@
   },
   {
     "id": "6",
-    "name": "TEA&TEA Bubble Milk Tea",
+    "name": "TEA&TEA",
     "address": "Goudsesingel 338A, 3011 KK Rotterdam",
     "specialty": "Handmade lime passion fruit tea",
     "description": "A small, handmade bubble tea shop known for fresh-crushed fruit teas and chewy tapioca pearls with thick cheese foam.",
@@ -61,7 +61,7 @@
   },
   {
     "id": "7",
-    "name": "InfiniTea (Markthal)",
+    "name": "InfiniTea",
     "address": "Dominee Jan Scharpstraat 298, Unit 51, 3011 PB Rotterdam",
     "specialty": "Blue Flame Bubble Tea",
     "description": "A tea stall inside Markthal where you can smell the tea blends before ordering, also selling DIY bubble tea kits.",
