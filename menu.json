@@ -1,0 +1,1719 @@
+[
+  {
+    "shopId": "1",
+    "drinks": [
+      {
+        "id": "1-1",
+        "name": "Yuzu Honey Jasmine",
+        "category": "Seasonal",
+        "price": 5.75,
+        "description": "Jasmine tea with yuzu, honey, lemon and fresh mint.",
+        "popular": true
+      },
+      {
+        "id": "1-2",
+        "name": "Brown Sugar Dalgona",
+        "category": "Coffee",
+        "price": 6.0,
+        "description": "Fresh milk with brown sugar syrup, dalgona coffee and tapioca pearls.",
+        "popular": true
+      },
+      {
+        "id": "1-3",
+        "name": "Cutea Classic",
+        "category": "Milk Tea",
+        "price": 5.5,
+        "description": "Classic Taiwanese black milk tea made with creamer.",
+        "popular": true
+      },
+      {
+        "id": "1-4",
+        "name": "White Peach Milk Tea",
+        "category": "Milk Tea",
+        "price": 6.0,
+        "description": "Oolong milk tea infused with sweet white peach."
+      },
+      {
+        "id": "1-5",
+        "name": "Coffee Milk Tea",
+        "category": "Milk Tea",
+        "price": 5.7,
+        "description": "Jasmine tea blended with coffee and creamy milk."
+      },
+      {
+        "id": "1-6",
+        "name": "Roasted Oolong Milk Tea",
+        "category": "Milk Tea",
+        "price": 5.7,
+        "description": "Roasted oolong tea with smooth creamy milk.",
+        "popular": true
+      },
+      {
+        "id": "1-7",
+        "name": "Mint Milk Tea",
+        "category": "Milk Tea",
+        "price": 5.7,
+        "description": "Green jasmine milk tea with refreshing mint."
+      },
+      {
+        "id": "1-8",
+        "name": "Honeydew Yoghurt",
+        "category": "Yoghurt",
+        "price": 6.3,
+        "description": "Honeydew yoghurt slush with jasmine tea."
+      },
+      {
+        "id": "1-9",
+        "name": "Strawberry Yoghurt",
+        "category": "Yoghurt",
+        "price": 6.3,
+        "description": "Creamy strawberry yoghurt slush."
+      },
+      {
+        "id": "1-10",
+        "name": "Lychee Yoghurt",
+        "category": "Yoghurt",
+        "price": 6.3,
+        "description": "Refreshing lychee yoghurt slush."
+      },
+      {
+        "id": "1-11",
+        "name": "Avocado Yoghurt",
+        "category": "Yoghurt",
+        "price": 6.5,
+        "description": "Rich avocado yoghurt blended with jasmine tea."
+      },
+      {
+        "id": "1-12",
+        "name": "Peach Yoghurt",
+        "category": "Yoghurt",
+        "price": 6.3,
+        "description": "Peach flavoured yoghurt slush."
+      },
+      {
+        "id": "1-13",
+        "name": "Grape Yoghurt",
+        "category": "Yoghurt",
+        "price": 6.3,
+        "description": "Sweet grape yoghurt slush."
+      },
+      {
+        "id": "1-14",
+        "name": "Yuzu Warm Tea",
+        "category": "Hot Tea",
+        "price": 5.75,
+        "description": "Warm black tea with sweet yuzu citrus."
+      },
+      {
+        "id": "1-15",
+        "name": "Oolong Latte",
+        "category": "Latte",
+        "price": 5.7,
+        "description": "Roasted oolong tea with fresh milk and cinnamon."
+      },
+      {
+        "id": "1-16",
+        "name": "Dirtea Boba",
+        "category": "Milk Tea",
+        "price": 6.0,
+        "description": "Brown sugar fresh milk with chewy tapioca pearls.",
+        "popular": true
+      },
+      {
+        "id": "1-17",
+        "name": "Purple Dream",
+        "category": "Milk Tea",
+        "price": 6.0,
+        "description": "Purple rice blended with creamy milk."
+      },
+      {
+        "id": "1-18",
+        "name": "Red Bean Coco",
+        "category": "Milk Tea",
+        "price": 6.0,
+        "description": "Coconut milk with sweet red beans."
+      },
+      {
+        "id": "1-19",
+        "name": "Chocolate Milk Tea",
+        "category": "Milk Tea",
+        "price": 6.0,
+        "description": "Chocolate milk tea topped with whipped cream."
+      },
+      {
+        "id": "1-20",
+        "name": "Brulee Milk Tea",
+        "category": "Milk Tea",
+        "price": 6.3,
+        "description": "Oolong milk tea finished with a caramelized crème brûlée layer.",
+        "popular": true
+      },
+      {
+        "id": "1-21",
+        "name": "Taro Milk Tea",
+        "category": "Milk Tea",
+        "price": 6.0,
+        "description": "Creamy taro milk tea."
+      }
+    ]
+  },
+  {
+    "shopId": "2",
+    "drinks": [
+      {
+        "id": "2-1",
+        "name": "Brown Sugar Bubble Milk",
+        "category": "Milk Tea",
+        "price": 6.95,
+        "description": "Fresh milk with warm brown sugar syrup and tapioca pearls.",
+        "popular": true
+      },
+      {
+        "id": "2-2",
+        "name": "Classic Bubble Milk Tea",
+        "category": "Milk Tea",
+        "price": 5.95,
+        "description": "Traditional Taiwanese black milk tea with tapioca pearls.",
+        "popular": true
+      },
+      {
+        "id": "2-3",
+        "name": "Jasmine Green Milk Tea",
+        "category": "Milk Tea",
+        "price": 5.95,
+        "description": "Fragrant jasmine green tea blended with creamy milk."
+      },
+      {
+        "id": "2-4",
+        "name": "Roasted Oolong Milk Tea",
+        "category": "Milk Tea",
+        "price": 6.15,
+        "description": "Smooth roasted oolong tea with creamy milk."
+      },
+      {
+        "id": "2-5",
+        "name": "Earl Grey Milk Tea",
+        "category": "Milk Tea",
+        "price": 6.15,
+        "description": "Black Earl Grey tea with creamy milk."
+      },
+      {
+        "id": "2-6",
+        "name": "Taro Milk Tea",
+        "category": "Milk Tea",
+        "price": 6.5,
+        "description": "Sweet taro blended into a creamy milk tea.",
+        "popular": true
+      },
+      {
+        "id": "2-7",
+        "name": "Matcha Milk Tea",
+        "category": "Matcha",
+        "price": 6.5,
+        "description": "Japanese matcha blended with milk."
+      },
+      {
+        "id": "2-8",
+        "name": "Thai Milk Tea",
+        "category": "Milk Tea",
+        "price": 6.25,
+        "description": "Traditional Thai-style spiced milk tea."
+      },
+      {
+        "id": "2-9",
+        "name": "Mango Green Tea",
+        "category": "Fruit Tea",
+        "price": 6.25,
+        "description": "Refreshing green tea infused with ripe mango.",
+        "popular": true
+      },
+      {
+        "id": "2-10",
+        "name": "Passion Fruit Green Tea",
+        "category": "Fruit Tea",
+        "price": 6.25,
+        "description": "Jasmine green tea with passion fruit."
+      },
+      {
+        "id": "2-11",
+        "name": "Peach Green Tea",
+        "category": "Fruit Tea",
+        "price": 6.25,
+        "description": "Green tea with juicy peach flavor."
+      },
+      {
+        "id": "2-12",
+        "name": "Lychee Green Tea",
+        "category": "Fruit Tea",
+        "price": 6.25,
+        "description": "Light jasmine tea with sweet lychee."
+      },
+      {
+        "id": "2-13",
+        "name": "Honey Lemon Green Tea",
+        "category": "Fruit Tea",
+        "price": 6.25,
+        "description": "Fresh lemon with honey and jasmine tea."
+      },
+      {
+        "id": "2-14",
+        "name": "Winter Melon Tea",
+        "category": "Fruit Tea",
+        "price": 5.95,
+        "description": "Sweet Taiwanese winter melon tea."
+      },
+      {
+        "id": "2-15",
+        "name": "Winter Melon Lemon Tea",
+        "category": "Fruit Tea",
+        "price": 6.25,
+        "description": "Winter melon tea with fresh lemon."
+      },
+      {
+        "id": "2-16",
+        "name": "Fresh Lemon Black Tea",
+        "category": "Fruit Tea",
+        "price": 6.25,
+        "description": "Fresh lemon slices brewed with black tea."
+      },
+      {
+        "id": "2-17",
+        "name": "Fresh Orange Green Tea",
+        "category": "Fruit Tea",
+        "price": 6.5,
+        "description": "Fresh orange juice mixed with jasmine green tea."
+      },
+      {
+        "id": "2-18",
+        "name": "Grapefruit Green Tea",
+        "category": "Fruit Tea",
+        "price": 6.5,
+        "description": "Refreshing grapefruit with green tea."
+      },
+      {
+        "id": "2-19",
+        "name": "Strawberry Fruit Tea",
+        "category": "Fruit Tea",
+        "price": 6.5,
+        "description": "Sweet strawberry tea served cold."
+      },
+      {
+        "id": "2-20",
+        "name": "Mango Yakult",
+        "category": "Yakult",
+        "price": 6.75,
+        "description": "Mango blended with Yakult probiotic drink.",
+        "popular": true
+      },
+      {
+        "id": "2-21",
+        "name": "Passion Fruit Yakult",
+        "category": "Yakult",
+        "price": 6.75,
+        "description": "Tangy passion fruit with Yakult."
+      },
+      {
+        "id": "2-22",
+        "name": "Lychee Yakult",
+        "category": "Yakult",
+        "price": 6.75,
+        "description": "Sweet lychee mixed with Yakult."
+      },
+      {
+        "id": "2-23",
+        "name": "Strawberry Yakult",
+        "category": "Yakult",
+        "price": 6.75,
+        "description": "Fresh strawberry blended with Yakult."
+      },
+      {
+        "id": "2-24",
+        "name": "Mango Smoothie",
+        "category": "Smoothie",
+        "price": 6.95,
+        "description": "Creamy mango smoothie with optional boba.",
+        "popular": true
+      },
+      {
+        "id": "2-25",
+        "name": "Strawberry Smoothie",
+        "category": "Smoothie",
+        "price": 6.95,
+        "description": "Fresh strawberry smoothie."
+      },
+      {
+        "id": "2-26",
+        "name": "Lychee Smoothie",
+        "category": "Smoothie",
+        "price": 6.95,
+        "description": "Refreshing lychee smoothie."
+      },
+      {
+        "id": "2-27",
+        "name": "Passion Fruit Smoothie",
+        "category": "Smoothie",
+        "price": 6.95,
+        "description": "Icy passion fruit smoothie."
+      },
+      {
+        "id": "2-28",
+        "name": "Matcha Latte",
+        "category": "Latte",
+        "price": 6.5,
+        "description": "Premium matcha whisked with fresh milk."
+      },
+      {
+        "id": "2-29",
+        "name": "Brown Sugar Matcha Latte",
+        "category": "Latte",
+        "price": 7.25,
+        "description": "Matcha latte layered with brown sugar syrup.",
+        "popular": true
+      },
+      {
+        "id": "2-30",
+        "name": "Chocolate Latte",
+        "category": "Latte",
+        "price": 6.5,
+        "description": "Rich chocolate blended with creamy milk."
+      }
+    ]
+  },
+  {
+    "shopId": "3",
+    "drinks": [
+      {
+        "id": "3-1",
+        "name": "Crème Brûlée Black Milk Tea",
+        "category": "Milk Tea",
+        "price": 6.9,
+        "description": "Black milk tea topped with caramelized crème brûlée cream and brown sugar pearls.",
+        "popular": true
+      },
+      {
+        "id": "3-2",
+        "name": "Crème Brûlée Oolong Milk Tea",
+        "category": "Milk Tea",
+        "price": 6.9,
+        "description": "Roasted oolong milk tea with signature crème brûlée topping.",
+        "popular": true
+      },
+      {
+        "id": "3-3",
+        "name": "Crème Brûlée Matcha Latte",
+        "category": "Matcha",
+        "price": 7.2,
+        "description": "Premium matcha latte with brûlée cream topping."
+      },
+      {
+        "id": "3-4",
+        "name": "Crème Brûlée Hojicha Latte",
+        "category": "Latte",
+        "price": 7.2,
+        "description": "Roasted Japanese tea latte with caramelized cream."
+      },
+      {
+        "id": "3-5",
+        "name": "Dirty Brown Sugar Milk",
+        "category": "Milk Tea",
+        "price": 6.5,
+        "description": "Fresh milk with hand-cooked brown sugar syrup and pearls.",
+        "popular": true
+      },
+      {
+        "id": "3-6",
+        "name": "Classic Black Milk Tea",
+        "category": "Milk Tea",
+        "price": 5.9,
+        "description": "Traditional black tea with milk and tapioca pearls."
+      },
+      {
+        "id": "3-7",
+        "name": "Oolong Milk Tea",
+        "category": "Milk Tea",
+        "price": 5.9,
+        "description": "Smooth roasted oolong with creamy milk."
+      },
+      {
+        "id": "3-8",
+        "name": "Jasmine Green Milk Tea",
+        "category": "Milk Tea",
+        "price": 5.9,
+        "description": "Fragrant jasmine tea with milk."
+      },
+      {
+        "id": "3-9",
+        "name": "Taro Milk Tea",
+        "category": "Milk Tea",
+        "price": 6.2,
+        "description": "Creamy taro blended milk tea."
+      },
+      {
+        "id": "3-10",
+        "name": "Matcha Latte",
+        "category": "Matcha",
+        "price": 6.8,
+        "description": "Ceremonial matcha whisked with milk."
+      },
+      {
+        "id": "3-11",
+        "name": "Brown Sugar Milk Latte",
+        "category": "Milk Tea",
+        "price": 6.5,
+        "description": "Milk latte with caramelized brown sugar pearls.",
+        "popular": true
+      },
+      {
+        "id": "3-12",
+        "name": "Strawberry Fresh Milk",
+        "category": "Milk Tea",
+        "price": 6.8,
+        "description": "Fresh milk with strawberry puree and pearls."
+      },
+      {
+        "id": "3-13",
+        "name": "Mango Fresh Milk",
+        "category": "Milk Tea",
+        "price": 6.8,
+        "description": "Fresh milk layered with mango puree."
+      },
+      {
+        "id": "3-14",
+        "name": "Chocolate Milk Tea",
+        "category": "Milk Tea",
+        "price": 6.2,
+        "description": "Rich chocolate milk tea with pearls."
+      },
+      {
+        "id": "3-15",
+        "name": "Hokkaido Milk Tea",
+        "category": "Milk Tea",
+        "price": 6.2,
+        "description": "Creamy caramel-style milk tea."
+      },
+      {
+        "id": "3-16",
+        "name": "Peach Fruit Tea",
+        "category": "Fruit Tea",
+        "price": 6.5,
+        "description": "Black tea with peach flavor and fruit bits.",
+        "popular": true
+      },
+      {
+        "id": "3-17",
+        "name": "Lychee Fruit Tea",
+        "category": "Fruit Tea",
+        "price": 6.5,
+        "description": "Refreshing lychee-infused tea."
+      },
+      {
+        "id": "3-18",
+        "name": "Passion Fruit Tea",
+        "category": "Fruit Tea",
+        "price": 6.5,
+        "description": "Tangy passion fruit blended with tea."
+      },
+      {
+        "id": "3-19",
+        "name": "Grapefruit Green Tea",
+        "category": "Fruit Tea",
+        "price": 6.5,
+        "description": "Fresh grapefruit with green tea."
+      },
+      {
+        "id": "3-20",
+        "name": "Strawberry Fruit Tea",
+        "category": "Fruit Tea",
+        "price": 6.5,
+        "description": "Sweet strawberry tea with fruit bits."
+      },
+      {
+        "id": "3-21",
+        "name": "Honey Lemon Green Tea",
+        "category": "Fruit Tea",
+        "price": 6.2,
+        "description": "Refreshing lemon tea with honey."
+      },
+      {
+        "id": "3-22",
+        "name": "Yakult Peach Tea",
+        "category": "Yakult",
+        "price": 6.8,
+        "description": "Peach tea mixed with Yakult."
+      },
+      {
+        "id": "3-23",
+        "name": "Yakult Passion Fruit Tea",
+        "category": "Yakult",
+        "price": 6.8,
+        "description": "Passion fruit tea with Yakult probiotic drink."
+      },
+      {
+        "id": "3-24",
+        "name": "Cheese Foam Black Tea",
+        "category": "Cheese Foam",
+        "price": 6.7,
+        "description": "Black tea topped with salty-sweet cheese foam.",
+        "popular": true
+      },
+      {
+        "id": "3-25",
+        "name": "Cheese Foam Green Tea",
+        "category": "Cheese Foam",
+        "price": 6.7,
+        "description": "Jasmine green tea with cheese foam topping."
+      },
+      {
+        "id": "3-26",
+        "name": "Cheese Foam Oolong Tea",
+        "category": "Cheese Foam",
+        "price": 6.7,
+        "description": "Roasted oolong with creamy cheese foam."
+      },
+      {
+        "id": "3-27",
+        "name": "Panna Cotta Milk Tea",
+        "category": "Milk Tea",
+        "price": 7.2,
+        "description": "Milk tea topped with soft panna cotta pudding.",
+        "popular": true
+      },
+      {
+        "id": "3-28",
+        "name": "Panna Cotta Matcha",
+        "category": "Matcha",
+        "price": 7.2,
+        "description": "Matcha latte with creamy panna cotta."
+      },
+      {
+        "id": "3-29",
+        "name": "Black Tea Latte",
+        "category": "Latte",
+        "price": 6.2,
+        "description": "Strong black tea blended with milk."
+      },
+      {
+        "id": "3-30",
+        "name": "Oolong Latte",
+        "category": "Latte",
+        "price": 6.2,
+        "description": "Roasted oolong tea with milk."
+      }
+    ]
+  },
+  {
+    "shopId": "4",
+    "drinks": [
+      {
+        "id": "4-1",
+        "name": "Classic Milk Tea",
+        "category": "Milk Tea",
+        "price": 5.95,
+        "description": "Traditional black milk tea with optional tapioca pearls.",
+        "popular": true
+      },
+      {
+        "id": "4-2",
+        "name": "Green Milk Tea",
+        "category": "Milk Tea",
+        "price": 5.95,
+        "description": "Jasmine green tea blended with milk."
+      },
+      {
+        "id": "4-3",
+        "name": "Roasted Oolong Milk Tea",
+        "category": "Milk Tea",
+        "price": 6.15,
+        "description": "Smooth roasted oolong tea with creamy milk."
+      },
+      {
+        "id": "4-4",
+        "name": "Taro Milk Tea",
+        "category": "Milk Tea",
+        "price": 6.25,
+        "description": "Sweet taro-flavored milk tea.",
+        "popular": true
+      },
+      {
+        "id": "4-5",
+        "name": "Brown Sugar Milk Tea",
+        "category": "Milk Tea",
+        "price": 6.5,
+        "description": "Milk tea with caramelized brown sugar syrup and pearls.",
+        "popular": true
+      },
+      {
+        "id": "4-6",
+        "name": "Thai Milk Tea",
+        "category": "Milk Tea",
+        "price": 6.25,
+        "description": "Spiced Thai-style milk tea with condensed milk."
+      },
+      {
+        "id": "4-7",
+        "name": "Matcha Milk Tea",
+        "category": "Matcha",
+        "price": 6.5,
+        "description": "Japanese matcha blended with milk."
+      },
+      {
+        "id": "4-8",
+        "name": "Chocolate Milk Tea",
+        "category": "Milk Tea",
+        "price": 6.2,
+        "description": "Rich chocolate blended with black tea."
+      },
+      {
+        "id": "4-9",
+        "name": "Winter Melon Milk Tea",
+        "category": "Milk Tea",
+        "price": 5.95,
+        "description": "Sweet winter melon syrup with milk tea base."
+      },
+      {
+        "id": "4-10",
+        "name": "Passion Fruit Green Tea",
+        "category": "Fruit Tea",
+        "price": 6.25,
+        "description": "Jasmine green tea with passion fruit."
+      },
+      {
+        "id": "4-11",
+        "name": "Mango Green Tea",
+        "category": "Fruit Tea",
+        "price": 6.25,
+        "description": "Fresh mango blended with green tea.",
+        "popular": true
+      },
+      {
+        "id": "4-12",
+        "name": "Lychee Green Tea",
+        "category": "Fruit Tea",
+        "price": 6.25,
+        "description": "Light and floral lychee green tea."
+      },
+      {
+        "id": "4-13",
+        "name": "Peach Green Tea",
+        "category": "Fruit Tea",
+        "price": 6.25,
+        "description": "Sweet peach-infused green tea."
+      },
+      {
+        "id": "4-14",
+        "name": "Strawberry Green Tea",
+        "category": "Fruit Tea",
+        "price": 6.25,
+        "description": "Fresh strawberry with green tea base."
+      },
+      {
+        "id": "4-15",
+        "name": "Honey Lemon Green Tea",
+        "category": "Fruit Tea",
+        "price": 6.25,
+        "description": "Refreshing lemon and honey green tea."
+      },
+      {
+        "id": "4-16",
+        "name": "Fresh Lemon Black Tea",
+        "category": "Fruit Tea",
+        "price": 6.25,
+        "description": "Black tea with fresh lemon slices."
+      },
+      {
+        "id": "4-17",
+        "name": "Yakult Mango Tea",
+        "category": "Yakult",
+        "price": 6.75,
+        "description": "Mango tea blended with Yakult probiotic drink.",
+        "popular": true
+      },
+      {
+        "id": "4-18",
+        "name": "Yakult Passion Fruit Tea",
+        "category": "Yakult",
+        "price": 6.75,
+        "description": "Passion fruit tea with Yakult."
+      },
+      {
+        "id": "4-19",
+        "name": "Yakult Lychee Tea",
+        "category": "Yakult",
+        "price": 6.75,
+        "description": "Lychee tea mixed with Yakult."
+      },
+      {
+        "id": "4-20",
+        "name": "Mango Smoothie",
+        "category": "Smoothie",
+        "price": 6.95,
+        "description": "Creamy mango smoothie.",
+        "popular": true
+      },
+      {
+        "id": "4-21",
+        "name": "Strawberry Smoothie",
+        "category": "Smoothie",
+        "price": 6.95,
+        "description": "Fresh strawberry blended into smoothie."
+      },
+      {
+        "id": "4-22",
+        "name": "Passion Fruit Smoothie",
+        "category": "Smoothie",
+        "price": 6.95,
+        "description": "Icy passion fruit smoothie."
+      },
+      {
+        "id": "4-23",
+        "name": "Lychee Smoothie",
+        "category": "Smoothie",
+        "price": 6.95,
+        "description": "Refreshing lychee smoothie."
+      },
+      {
+        "id": "4-24",
+        "name": "Brown Sugar Dirty Milk",
+        "category": "Milk Tea",
+        "price": 6.75,
+        "description": "Fresh milk layered with brown sugar syrup and pearls.",
+        "popular": true
+      },
+      {
+        "id": "4-25",
+        "name": "Matcha Latte",
+        "category": "Matcha",
+        "price": 6.5,
+        "description": "Premium matcha with milk."
+      },
+      {
+        "id": "4-26",
+        "name": "Brown Sugar Matcha Latte",
+        "category": "Matcha",
+        "price": 7.25,
+        "description": "Matcha latte with brown sugar syrup layers.",
+        "popular": true
+      },
+      {
+        "id": "4-27",
+        "name": "Chocolate Latte",
+        "category": "Latte",
+        "price": 6.5,
+        "description": "Rich chocolate milk drink."
+      },
+      {
+        "id": "4-28",
+        "name": "Oolong Latte",
+        "category": "Latte",
+        "price": 6.2,
+        "description": "Roasted oolong tea with milk."
+      },
+      {
+        "id": "4-29",
+        "name": "Earl Grey Milk Tea",
+        "category": "Milk Tea",
+        "price": 6.15,
+        "description": "Fragrant Earl Grey tea with milk."
+      },
+      {
+        "id": "4-30",
+        "name": "Winter Melon Tea",
+        "category": "Fruit Tea",
+        "price": 5.95,
+        "description": "Traditional sweet winter melon tea."
+      }
+    ]
+  },
+  {
+    "shopId": "5",
+    "drinks": [
+      {
+        "id": "5-1",
+        "name": "Dirty Brown Sugar Milk Tea",
+        "category": "Milk Tea",
+        "price": 6.95,
+        "description": "Fresh milk layered with warm brown sugar syrup and tapioca pearls.",
+        "popular": true
+      },
+      {
+        "id": "5-2",
+        "name": "Brown Sugar Boba Milk",
+        "category": "Milk Tea",
+        "price": 6.75,
+        "description": "Classic milk with caramelized brown sugar pearls.",
+        "popular": true
+      },
+      {
+        "id": "5-3",
+        "name": "Classic Black Milk Tea",
+        "category": "Milk Tea",
+        "price": 5.95,
+        "description": "Traditional black tea with milk and pearls."
+      },
+      {
+        "id": "5-4",
+        "name": "Oolong Milk Tea",
+        "category": "Milk Tea",
+        "price": 6.15,
+        "description": "Roasted oolong tea blended with milk."
+      },
+      {
+        "id": "5-5",
+        "name": "Jasmine Green Milk Tea",
+        "category": "Milk Tea",
+        "price": 6.15,
+        "description": "Fragrant jasmine green tea with milk."
+      },
+      {
+        "id": "5-6",
+        "name": "Taro Milk Tea",
+        "category": "Milk Tea",
+        "price": 6.5,
+        "description": "Creamy taro blended milk tea.",
+        "popular": true
+      },
+      {
+        "id": "5-7",
+        "name": "Thai Milk Tea",
+        "category": "Milk Tea",
+        "price": 6.25,
+        "description": "Spiced Thai-style tea with condensed milk."
+      },
+      {
+        "id": "5-8",
+        "name": "Matcha Milk Tea",
+        "category": "Matcha",
+        "price": 6.75,
+        "description": "Premium matcha blended with milk.",
+        "popular": true
+      },
+      {
+        "id": "5-9",
+        "name": "Brown Sugar Matcha Latte",
+        "category": "Matcha",
+        "price": 7.25,
+        "description": "Matcha latte with brown sugar syrup layers."
+      },
+      {
+        "id": "5-10",
+        "name": "Chocolate Milk Tea",
+        "category": "Milk Tea",
+        "price": 6.25,
+        "description": "Chocolate blended milk tea."
+      },
+      {
+        "id": "5-11",
+        "name": "Strawberry Milk Tea",
+        "category": "Milk Tea",
+        "price": 6.5,
+        "description": "Sweet strawberry infused milk tea."
+      },
+      {
+        "id": "5-12",
+        "name": "Mango Milk Tea",
+        "category": "Milk Tea",
+        "price": 6.5,
+        "description": "Mango blended milk tea."
+      },
+      {
+        "id": "5-13",
+        "name": "Honeydew Milk Tea",
+        "category": "Milk Tea",
+        "price": 6.5,
+        "description": "Sweet honeydew melon milk tea."
+      },
+      {
+        "id": "5-14",
+        "name": "Lychee Green Tea",
+        "category": "Fruit Tea",
+        "price": 6.25,
+        "description": "Light green tea with lychee flavor."
+      },
+      {
+        "id": "5-15",
+        "name": "Peach Green Tea",
+        "category": "Fruit Tea",
+        "price": 6.25,
+        "description": "Sweet peach infused green tea."
+      },
+      {
+        "id": "5-16",
+        "name": "Passion Fruit Green Tea",
+        "category": "Fruit Tea",
+        "price": 6.25,
+        "description": "Tangy passion fruit with green tea.",
+        "popular": true
+      },
+      {
+        "id": "5-17",
+        "name": "Mango Green Tea",
+        "category": "Fruit Tea",
+        "price": 6.25,
+        "description": "Fresh mango blended with green tea."
+      },
+      {
+        "id": "5-18",
+        "name": "Strawberry Green Tea",
+        "category": "Fruit Tea",
+        "price": 6.25,
+        "description": "Strawberry infused green tea."
+      },
+      {
+        "id": "5-19",
+        "name": "Grapefruit Green Tea",
+        "category": "Fruit Tea",
+        "price": 6.5,
+        "description": "Refreshing grapefruit tea."
+      },
+      {
+        "id": "5-20",
+        "name": "Yakult Mango Tea",
+        "category": "Yakult",
+        "price": 6.75,
+        "description": "Mango tea blended with Yakult.",
+        "popular": true
+      },
+      {
+        "id": "5-21",
+        "name": "Yakult Passion Fruit Tea",
+        "category": "Yakult",
+        "price": 6.75,
+        "description": "Passion fruit tea with Yakult."
+      },
+      {
+        "id": "5-22",
+        "name": "Yakult Lychee Tea",
+        "category": "Yakult",
+        "price": 6.75,
+        "description": "Lychee tea with Yakult."
+      },
+      {
+        "id": "5-23",
+        "name": "Mango Smoothie",
+        "category": "Smoothie",
+        "price": 6.95,
+        "description": "Creamy mango smoothie.",
+        "popular": true
+      },
+      {
+        "id": "5-24",
+        "name": "Strawberry Smoothie",
+        "category": "Smoothie",
+        "price": 6.95,
+        "description": "Fresh strawberry smoothie."
+      },
+      {
+        "id": "5-25",
+        "name": "Passion Fruit Smoothie",
+        "category": "Smoothie",
+        "price": 6.95,
+        "description": "Icy passion fruit smoothie."
+      },
+      {
+        "id": "5-26",
+        "name": "Lychee Smoothie",
+        "category": "Smoothie",
+        "price": 6.95,
+        "description": "Refreshing lychee smoothie."
+      },
+      {
+        "id": "5-27",
+        "name": "Winter Melon Tea",
+        "category": "Fruit Tea",
+        "price": 5.95,
+        "description": "Traditional sweet winter melon tea."
+      },
+      {
+        "id": "5-28",
+        "name": "Honey Lemon Green Tea",
+        "category": "Fruit Tea",
+        "price": 6.25,
+        "description": "Refreshing lemon and honey tea."
+      },
+      {
+        "id": "5-29",
+        "name": "Earl Grey Milk Tea",
+        "category": "Milk Tea",
+        "price": 6.15,
+        "description": "Fragrant Earl Grey milk tea."
+      },
+      {
+        "id": "5-30",
+        "name": "Oolong Latte",
+        "category": "Latte",
+        "price": 6.2,
+        "description": "Roasted oolong tea with milk."
+      }
+    ]
+  },
+  {
+    "shopId": "6",
+    "drinks": [
+      {
+        "id": "6-1",
+        "name": "Handmade Lime Passion Fruit Tea",
+        "category": "Fruit Tea",
+        "price": 6.95,
+        "description": "Fresh crushed lime and passion fruit with green tea.",
+        "popular": true
+      },
+      {
+        "id": "6-2",
+        "name": "Fresh Mango Green Tea",
+        "category": "Fruit Tea",
+        "price": 6.75,
+        "description": "Real mango chunks blended with jasmine green tea.",
+        "popular": true
+      },
+      {
+        "id": "6-3",
+        "name": "Fresh Strawberry Green Tea",
+        "category": "Fruit Tea",
+        "price": 6.75,
+        "description": "Fresh strawberries with green tea base."
+      },
+      {
+        "id": "6-4",
+        "name": "Fresh Lychee Green Tea",
+        "category": "Fruit Tea",
+        "price": 6.75,
+        "description": "Sweet lychee fruit blended with jasmine tea."
+      },
+      {
+        "id": "6-5",
+        "name": "Passion Fruit Green Tea",
+        "category": "Fruit Tea",
+        "price": 6.5,
+        "description": "Tangy passion fruit mixed with green tea.",
+        "popular": true
+      },
+      {
+        "id": "6-6",
+        "name": "Grapefruit Green Tea",
+        "category": "Fruit Tea",
+        "price": 6.75,
+        "description": "Fresh grapefruit with green tea."
+      },
+      {
+        "id": "6-7",
+        "name": "Honey Lemon Green Tea",
+        "category": "Fruit Tea",
+        "price": 6.5,
+        "description": "Refreshing lemon and honey green tea."
+      },
+      {
+        "id": "6-8",
+        "name": "Fresh Orange Black Tea",
+        "category": "Fruit Tea",
+        "price": 6.75,
+        "description": "Black tea mixed with fresh orange juice."
+      },
+      {
+        "id": "6-9",
+        "name": "Winter Melon Tea",
+        "category": "Fruit Tea",
+        "price": 5.95,
+        "description": "Traditional sweet winter melon tea."
+      },
+      {
+        "id": "6-10",
+        "name": "Classic Black Milk Tea",
+        "category": "Milk Tea",
+        "price": 5.95,
+        "description": "Traditional milk tea with tapioca pearls."
+      },
+      {
+        "id": "6-11",
+        "name": "Roasted Oolong Milk Tea",
+        "category": "Milk Tea",
+        "price": 6.2,
+        "description": "Roasted oolong tea with creamy milk."
+      },
+      {
+        "id": "6-12",
+        "name": "Jasmine Green Milk Tea",
+        "category": "Milk Tea",
+        "price": 6.2,
+        "description": "Light jasmine tea with milk."
+      },
+      {
+        "id": "6-13",
+        "name": "Taro Milk Tea",
+        "category": "Milk Tea",
+        "price": 6.5,
+        "description": "Creamy taro blended milk tea.",
+        "popular": true
+      },
+      {
+        "id": "6-14",
+        "name": "Brown Sugar Milk Tea",
+        "category": "Milk Tea",
+        "price": 6.75,
+        "description": "Milk tea with caramel brown sugar syrup and pearls.",
+        "popular": true
+      },
+      {
+        "id": "6-15",
+        "name": "Chocolate Milk Tea",
+        "category": "Milk Tea",
+        "price": 6.25,
+        "description": "Rich chocolate blended milk tea."
+      },
+      {
+        "id": "6-16",
+        "name": "Matcha Latte",
+        "category": "Matcha",
+        "price": 6.75,
+        "description": "Premium matcha with milk."
+      },
+      {
+        "id": "6-17",
+        "name": "Brown Sugar Matcha Latte",
+        "category": "Matcha",
+        "price": 7.25,
+        "description": "Matcha latte layered with brown sugar syrup.",
+        "popular": true
+      },
+      {
+        "id": "6-18",
+        "name": "Cheese Foam Black Tea",
+        "category": "Cheese Foam",
+        "price": 6.75,
+        "description": "Black tea topped with salty cheese foam.",
+        "popular": true
+      },
+      {
+        "id": "6-19",
+        "name": "Cheese Foam Green Tea",
+        "category": "Cheese Foam",
+        "price": 6.75,
+        "description": "Jasmine green tea with cheese foam."
+      },
+      {
+        "id": "6-20",
+        "name": "Cheese Foam Oolong Tea",
+        "category": "Cheese Foam",
+        "price": 6.75,
+        "description": "Roasted oolong tea with cheese foam topping."
+      },
+      {
+        "id": "6-21",
+        "name": "Strawberry Cheese Foam Tea",
+        "category": "Cheese Foam",
+        "price": 7.0,
+        "description": "Strawberry fruit tea topped with cheese foam."
+      },
+      {
+        "id": "6-22",
+        "name": "Mango Cheese Foam Tea",
+        "category": "Cheese Foam",
+        "price": 7.0,
+        "description": "Mango fruit tea with creamy cheese foam."
+      },
+      {
+        "id": "6-23",
+        "name": "Lychee Cheese Foam Tea",
+        "category": "Cheese Foam",
+        "price": 7.0,
+        "description": "Lychee tea topped with cheese foam."
+      },
+      {
+        "id": "6-24",
+        "name": "Pineapple Fruit Tea",
+        "category": "Fruit Tea",
+        "price": 6.75,
+        "description": "Fresh pineapple with green tea."
+      },
+      {
+        "id": "6-25",
+        "name": "Peach Fruit Tea",
+        "category": "Fruit Tea",
+        "price": 6.5,
+        "description": "Sweet peach tea with fruit bits."
+      },
+      {
+        "id": "6-26",
+        "name": "Strawberry Milk Tea",
+        "category": "Milk Tea",
+        "price": 6.5,
+        "description": "Strawberry flavored milk tea."
+      },
+      {
+        "id": "6-27",
+        "name": "Mango Milk Tea",
+        "category": "Milk Tea",
+        "price": 6.5,
+        "description": "Mango blended milk tea."
+      },
+      {
+        "id": "6-28",
+        "name": "Lychee Milk Tea",
+        "category": "Milk Tea",
+        "price": 6.5,
+        "description": "Lychee flavored milk tea."
+      },
+      {
+        "id": "6-29",
+        "name": "Oolong Latte",
+        "category": "Latte",
+        "price": 6.2,
+        "description": "Smooth oolong tea with milk."
+      },
+      {
+        "id": "6-30",
+        "name": "Black Tea Latte",
+        "category": "Latte",
+        "price": 6.2,
+        "description": "Strong black tea with milk."
+      }
+    ]
+  },
+  {
+    "shopId": "7",
+    "drinks": [
+      {
+        "id": "7-1",
+        "name": "Blue Flame Bubble Tea",
+        "category": "Specialty",
+        "price": 7.5,
+        "description": "Signature glowing blue butterfly pea tea with citrus and popping boba.",
+        "popular": true
+      },
+      {
+        "id": "7-2",
+        "name": "Butterfly Pea Lemon Tea",
+        "category": "Fruit Tea",
+        "price": 6.75,
+        "description": "Color-changing tea with fresh lemon juice."
+      },
+      {
+        "id": "7-3",
+        "name": "Lychee Butterfly Tea",
+        "category": "Fruit Tea",
+        "price": 6.95,
+        "description": "Floral butterfly pea tea with sweet lychee."
+      },
+      {
+        "id": "7-4",
+        "name": "Mango Passion Fruit Tea",
+        "category": "Fruit Tea",
+        "price": 6.95,
+        "description": "Tropical mango and passion fruit green tea.",
+        "popular": true
+      },
+      {
+        "id": "7-5",
+        "name": "Fresh Mango Green Tea",
+        "category": "Fruit Tea",
+        "price": 6.75,
+        "description": "Classic mango infused green tea."
+      },
+      {
+        "id": "7-6",
+        "name": "Strawberry Lemon Tea",
+        "category": "Fruit Tea",
+        "price": 6.75,
+        "description": "Fresh strawberry with lemon tea base."
+      },
+      {
+        "id": "7-7",
+        "name": "Grapefruit Honey Tea",
+        "category": "Fruit Tea",
+        "price": 6.75,
+        "description": "Refreshing grapefruit tea with honey."
+      },
+      {
+        "id": "7-8",
+        "name": "Peach Jasmine Tea",
+        "category": "Fruit Tea",
+        "price": 6.75,
+        "description": "Light jasmine tea with peach flavor."
+      },
+      {
+        "id": "7-9",
+        "name": "Classic Milk Tea",
+        "category": "Milk Tea",
+        "price": 5.95,
+        "description": "Traditional black milk tea with pearls."
+      },
+      {
+        "id": "7-10",
+        "name": "Roasted Oolong Milk Tea",
+        "category": "Milk Tea",
+        "price": 6.2,
+        "description": "Smooth roasted oolong with milk."
+      },
+      {
+        "id": "7-11",
+        "name": "Taro Milk Tea",
+        "category": "Milk Tea",
+        "price": 6.5,
+        "description": "Creamy taro milk tea.",
+        "popular": true
+      },
+      {
+        "id": "7-12",
+        "name": "Brown Sugar Milk Tea",
+        "category": "Milk Tea",
+        "price": 6.75,
+        "description": "Milk tea with caramel brown sugar pearls.",
+        "popular": true
+      },
+      {
+        "id": "7-13",
+        "name": "Matcha Latte",
+        "category": "Matcha",
+        "price": 6.75,
+        "description": "Ceremonial matcha with milk."
+      },
+      {
+        "id": "7-14",
+        "name": "Brown Sugar Matcha Latte",
+        "category": "Matcha",
+        "price": 7.25,
+        "description": "Matcha latte layered with brown sugar syrup.",
+        "popular": true
+      },
+      {
+        "id": "7-15",
+        "name": "Chocolate Milk Tea",
+        "category": "Milk Tea",
+        "price": 6.25,
+        "description": "Rich chocolate flavored milk tea."
+      },
+      {
+        "id": "7-16",
+        "name": "Winter Melon Tea",
+        "category": "Fruit Tea",
+        "price": 5.95,
+        "description": "Traditional sweet winter melon tea."
+      },
+      {
+        "id": "7-17",
+        "name": "Honey Lemon Green Tea",
+        "category": "Fruit Tea",
+        "price": 6.25,
+        "description": "Fresh lemon and honey green tea."
+      },
+      {
+        "id": "7-18",
+        "name": "Yakult Mango Tea",
+        "category": "Yakult",
+        "price": 6.95,
+        "description": "Mango tea blended with Yakult.",
+        "popular": true
+      },
+      {
+        "id": "7-19",
+        "name": "Yakult Passion Fruit Tea",
+        "category": "Yakult",
+        "price": 6.95,
+        "description": "Passion fruit tea with Yakult."
+      },
+      {
+        "id": "7-20",
+        "name": "Yakult Lychee Tea",
+        "category": "Yakult",
+        "price": 6.95,
+        "description": "Lychee tea with Yakult."
+      },
+      {
+        "id": "7-21",
+        "name": "Mango Smoothie",
+        "category": "Smoothie",
+        "price": 6.95,
+        "description": "Creamy mango smoothie.",
+        "popular": true
+      },
+      {
+        "id": "7-22",
+        "name": "Strawberry Smoothie",
+        "category": "Smoothie",
+        "price": 6.95,
+        "description": "Fresh strawberry smoothie."
+      },
+      {
+        "id": "7-23",
+        "name": "Lychee Smoothie",
+        "category": "Smoothie",
+        "price": 6.95,
+        "description": "Refreshing lychee smoothie."
+      },
+      {
+        "id": "7-24",
+        "name": "Passion Fruit Smoothie",
+        "category": "Smoothie",
+        "price": 6.95,
+        "description": "Icy passion fruit smoothie."
+      },
+      {
+        "id": "7-25",
+        "name": "Cheese Foam Black Tea",
+        "category": "Cheese Foam",
+        "price": 6.75,
+        "description": "Black tea topped with salty cheese foam.",
+        "popular": true
+      },
+      {
+        "id": "7-26",
+        "name": "Cheese Foam Green Tea",
+        "category": "Cheese Foam",
+        "price": 6.75,
+        "description": "Jasmine green tea with cheese foam."
+      },
+      {
+        "id": "7-27",
+        "name": "Cheese Foam Oolong Tea",
+        "category": "Cheese Foam",
+        "price": 6.75,
+        "description": "Roasted oolong tea with cheese foam."
+      },
+      {
+        "id": "7-28",
+        "name": "DIY Bubble Tea Kit",
+        "category": "Specialty",
+        "price": 12.95,
+        "description": "Take-home kit to make your own bubble tea."
+      },
+      {
+        "id": "7-29",
+        "name": "Popping Boba Fruit Tea",
+        "category": "Fruit Tea",
+        "price": 7.25,
+        "description": "Fruit tea with bursting popping boba pearls."
+      },
+      {
+        "id": "7-30",
+        "name": "Rainbow Fruit Tea",
+        "category": "Fruit Tea",
+        "price": 7.5,
+        "description": "Layered colorful fruit tea with mixed fruits.",
+        "popular": true
+      }
+    ]
+  },
+  {
+    "shopId": "8",
+    "drinks": [
+      {
+        "id": "8-1",
+        "name": "Oat Jasmine Milk Tea",
+        "category": "Milk Tea",
+        "price": 5.75,
+        "description": "Jasmine green tea with oat milk for a light, creamy taste.",
+        "popular": true
+      },
+      {
+        "id": "8-2",
+        "name": "Classic Black Milk Tea",
+        "category": "Milk Tea",
+        "price": 5.5,
+        "description": "Traditional black tea with milk and optional tapioca pearls.",
+        "popular": true
+      },
+      {
+        "id": "8-3",
+        "name": "Roasted Oolong Milk Tea",
+        "category": "Milk Tea",
+        "price": 5.75,
+        "description": "Smooth roasted oolong tea with milk."
+      },
+      {
+        "id": "8-4",
+        "name": "Jasmine Green Milk Tea",
+        "category": "Milk Tea",
+        "price": 5.5,
+        "description": "Light jasmine tea blended with milk."
+      },
+      {
+        "id": "8-5",
+        "name": "Brown Sugar Milk Tea",
+        "category": "Milk Tea",
+        "price": 6.25,
+        "description": "Milk tea with caramelized brown sugar syrup and pearls.",
+        "popular": true
+      },
+      {
+        "id": "8-6",
+        "name": "Taro Milk Tea",
+        "category": "Milk Tea",
+        "price": 6.0,
+        "description": "Creamy taro flavored milk tea."
+      },
+      {
+        "id": "8-7",
+        "name": "Matcha Latte",
+        "category": "Matcha",
+        "price": 6.25,
+        "description": "Smooth matcha blended with milk.",
+        "popular": true
+      },
+      {
+        "id": "8-8",
+        "name": "Brown Sugar Matcha Latte",
+        "category": "Matcha",
+        "price": 6.95,
+        "description": "Matcha latte layered with brown sugar syrup."
+      },
+      {
+        "id": "8-9",
+        "name": "Chocolate Milk Tea",
+        "category": "Milk Tea",
+        "price": 5.95,
+        "description": "Rich chocolate blended with milk tea."
+      },
+      {
+        "id": "8-10",
+        "name": "Strawberry Milk Tea",
+        "category": "Milk Tea",
+        "price": 5.95,
+        "description": "Sweet strawberry flavored milk tea."
+      },
+      {
+        "id": "8-11",
+        "name": "Lychee Milk Tea",
+        "category": "Milk Tea",
+        "price": 5.95,
+        "description": "Light floral lychee milk tea."
+      },
+      {
+        "id": "8-12",
+        "name": "Mango Milk Tea",
+        "category": "Milk Tea",
+        "price": 5.95,
+        "description": "Sweet mango blended milk tea."
+      },
+      {
+        "id": "8-13",
+        "name": "Honeydew Milk Tea",
+        "category": "Milk Tea",
+        "price": 5.95,
+        "description": "Refreshing honeydew flavored milk tea."
+      },
+      {
+        "id": "8-14",
+        "name": "Peach Green Tea",
+        "category": "Fruit Tea",
+        "price": 5.75,
+        "description": "Green tea with sweet peach flavor.",
+        "popular": true
+      },
+      {
+        "id": "8-15",
+        "name": "Mango Green Tea",
+        "category": "Fruit Tea",
+        "price": 5.95,
+        "description": "Fresh mango blended with green tea."
+      },
+      {
+        "id": "8-16",
+        "name": "Passion Fruit Green Tea",
+        "category": "Fruit Tea",
+        "price": 5.95,
+        "description": "Tangy passion fruit with green tea.",
+        "popular": true
+      },
+      {
+        "id": "8-17",
+        "name": "Lychee Green Tea",
+        "category": "Fruit Tea",
+        "price": 5.95,
+        "description": "Light floral lychee green tea."
+      },
+      {
+        "id": "8-18",
+        "name": "Strawberry Green Tea",
+        "category": "Fruit Tea",
+        "price": 5.95,
+        "description": "Fresh strawberry green tea."
+      },
+      {
+        "id": "8-19",
+        "name": "Honey Lemon Green Tea",
+        "category": "Fruit Tea",
+        "price": 5.75,
+        "description": "Refreshing lemon and honey green tea."
+      },
+      {
+        "id": "8-20",
+        "name": "Fresh Lemon Black Tea",
+        "category": "Fruit Tea",
+        "price": 5.75,
+        "description": "Black tea with fresh lemon slices."
+      },
+      {
+        "id": "8-21",
+        "name": "Winter Melon Tea",
+        "category": "Fruit Tea",
+        "price": 5.5,
+        "description": "Traditional sweet winter melon tea."
+      },
+      {
+        "id": "8-22",
+        "name": "Yakult Mango Tea",
+        "category": "Yakult",
+        "price": 6.25,
+        "description": "Mango tea blended with Yakult.",
+        "popular": true
+      },
+      {
+        "id": "8-23",
+        "name": "Yakult Passion Fruit Tea",
+        "category": "Yakult",
+        "price": 6.25,
+        "description": "Passion fruit tea with Yakult."
+      },
+      {
+        "id": "8-24",
+        "name": "Yakult Lychee Tea",
+        "category": "Yakult",
+        "price": 6.25,
+        "description": "Lychee tea with Yakult."
+      },
+      {
+        "id": "8-25",
+        "name": "Mango Smoothie",
+        "category": "Smoothie",
+        "price": 6.5,
+        "description": "Creamy mango smoothie.",
+        "popular": true
+      },
+      {
+        "id": "8-26",
+        "name": "Strawberry Smoothie",
+        "category": "Smoothie",
+        "price": 6.5,
+        "description": "Fresh strawberry smoothie."
+      },
+      {
+        "id": "8-27",
+        "name": "Lychee Smoothie",
+        "category": "Smoothie",
+        "price": 6.5,
+        "description": "Light lychee smoothie."
+      },
+      {
+        "id": "8-28",
+        "name": "Passion Fruit Smoothie",
+        "category": "Smoothie",
+        "price": 6.5,
+        "description": "Icy passion fruit smoothie."
+      },
+      {
+        "id": "8-29",
+        "name": "Oat Brown Sugar Milk",
+        "category": "Milk Tea",
+        "price": 6.5,
+        "description": "Oat milk with brown sugar syrup and pearls.",
+        "popular": true
+      },
+      {
+        "id": "8-30",
+        "name": "Matcha Oat Latte",
+        "category": "Matcha",
+        "price": 6.75,
+        "description": "Matcha blended with oat milk."
+      }
+    ]
+  }
+]
