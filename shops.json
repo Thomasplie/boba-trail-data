@@ -1,0 +1,82 @@
+[
+  {
+    "id": "1",
+    "name": "Cutea Bubbletea",
+    "address": "Schouwburgplein 11, 3012 CL Rotterdam",
+    "specialty": "Cheese foam & fresh watermelon tea",
+    "description": "A cosy, pink-themed bubble tea shop near Schouwburgplein, known for its cheese and cake foam add-ons and freshly made fruit teas.",
+    "image": "https://placehold.co/400x400/f7c5d0/5a2a3c?text=Cutea+Bubbletea",
+    "latitude": 51.9205074,
+    "longitude": 4.4730475
+  },
+  {
+    "id": "2",
+    "name": "YOYO! Fresh Tea Bar",
+    "address": "Kruisplein 28, 3012 CC Rotterdam",
+    "specialty": "Mango boba green tea",
+    "description": "A spacious tea bar close to Rotterdam Centraal with self-service ordering screens and a wide range of fruit and milk teas.",
+    "image": "https://placehold.co/400x400/f7e7a1/5a4a1c?text=YOYO",
+    "latitude": 51.9219235,
+    "longitude": 4.4717302
+  },
+  {
+    "id": "3",
+    "name": "machi machi Rotterdam",
+    "address": "Hoogstraat 117A, 3011 PL Rotterdam",
+    "specialty": "Matcha latte with cream brulee",
+    "description": "A minimalist bubble tea and matcha spot near Markthal and Blaak station, praised for its rich matcha lattes and thick tapioca pearls.",
+    "image": "https://placehold.co/400x400/a8d5a2/1c3a1c?text=machi+machi",
+    "latitude": 51.9217391,
+    "longitude": 4.4892323
+  },
+  {
+    "id": "4",
+    "name": "CoCo Bubble Tea (Koopgoot)",
+    "address": "Beurstraverse 146, 3012 AT Rotterdam",
+    "specialty": "Adjustable sugar level classic milk tea",
+    "description": "A well-known bubble tea chain located in the heart of the Koopgoot shopping street, offering fully adjustable sugar levels on all drinks.",
+    "image": "https://placehold.co/400x400/c9a6e0/2c1c3a?text=CoCo",
+    "latitude": 51.9197610,
+    "longitude": 4.4798154
+  },
+  {
+    "id": "5",
+    "name": "8tea5 Rotterdam",
+    "address": "Stadhuisplein 34, 3012 ET Rotterdam",
+    "specialty": "Brown sugar boba tea",
+    "description": "A colourfully decorated bubble tea bar on Stadhuisplein with an 80s-inspired interior and a signature dirty milk tea.",
+    "image": "https://placehold.co/400x400/e0a6a6/3a1c1c?text=8tea5",
+    "latitude": 51.9220843,
+    "longitude": 4.4770132
+  },
+  {
+    "id": "6",
+    "name": "TEA&TEA Bubble Milk Tea",
+    "address": "Goudsesingel 338A, 3011 KK Rotterdam",
+    "specialty": "Handmade lime passion fruit tea",
+    "description": "A small, handmade bubble tea shop known for fresh-crushed fruit teas and chewy tapioca pearls with thick cheese foam.",
+    "image": "https://placehold.co/400x400/a6c9e0/1c2c3a?text=TEA%26TEA",
+    "latitude": 51.9243069,
+    "longitude": 4.4867444
+  },
+  {
+    "id": "7",
+    "name": "InfiniTea (Markthal)",
+    "address": "Dominee Jan Scharpstraat 298, Unit 51, 3011 PB Rotterdam",
+    "specialty": "Blue Flame Bubble Tea",
+    "description": "A tea stall inside Markthal where you can smell the tea blends before ordering, also selling DIY bubble tea kits.",
+    "image": "https://placehold.co/400x400/f0c987/3a2c1c?text=InfiniTea",
+    "latitude": 51.9201813,
+    "longitude": 4.4872511
+  },
+  {
+    "id": "8",
+    "name": "ONE SIP",
+    "address": "Botersloot 56A, 3011 HH Rotterdam",
+    "specialty": "Oat jasmine milk tea",
+    "description": "A friendly, newer bubble tea shop near Meent with competitive pricing, adjustable ice and sugar levels, and indoor seating.",
+    "image": "https://placehold.co/400x400/a6e0d5/1c3a35?text=ONE+SIP",
+    "latitude": 51.9220406,
+    "longitude": 4.4881569
+  }
+]
